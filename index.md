@@ -8,8 +8,8 @@ University of California, Santa Cruz
 
 ### Undergraduate Courses
 
-- [ECE180J Advanced Renewable Energy Sources, Storage, and Smart Grids](https://github.com/yzhang49/ECE180J)
+- [ECE180J Advanced Renewable Energy Sources, Storage, and Smart Grids](https://github.com/yuzhang49/ECE180J)
 
 ### Graduate Courses
 
-- [ECE253/CSE208 Introduction to Introduction to Information Theory](https://github.com/yzhang49/ECE253)
+- [ECE253/CSE208 Introduction to Introduction to Information Theory](https://github.com/yuzhang49/ECE253)
