@@ -12,4 +12,4 @@ University of California, Santa Cruz
 
 ### Graduate Courses
 
-- [ECE253/CSE208 Introduction to Introduction to Information Theory](https://github.com/yuzhang49/ECE253)
+- [ECE253/CSE208 Introduction to Information Theory](https://github.com/yuzhang49/ECE253)
